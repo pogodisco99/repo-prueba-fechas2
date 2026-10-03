@@ -1,3 +1,9 @@
 # Mi Proyecto
 
-Proyecto de prueba.
+Proyecto con trazabilidad.
+
+## Uso
+
+```
+python main.py
+```
